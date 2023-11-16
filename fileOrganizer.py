@@ -1,7 +1,7 @@
 import os 
 import shutil 
 
-path = input("Enter Path: ")
+path = input("Time To Organize Your Files! =) " "Please Enter Path Location: ")
 files = os.listdir(path)
 
 for file in files:
